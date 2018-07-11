@@ -1,0 +1,3 @@
+i
+un texte de plus dans vim
+:w
